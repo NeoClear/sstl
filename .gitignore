@@ -1,0 +1,8 @@
+.vscode/
+CMakeCache.txt
+*.cmake
+MyTest
+CMakeFiles/
+Testing
+Makefile
+test/TestVector
