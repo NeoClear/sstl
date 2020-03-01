@@ -5,5 +5,9 @@ MyTest
 CMakeFiles/
 Testing
 Makefile
-test/TestVector
 install_manifest.txt
+sample/*.out
+
+test/
+!test/*.cpp
+build/
